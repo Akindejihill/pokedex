@@ -1,0 +1,12 @@
+.pokecard{
+    display : inline-block;
+    text-align: center;
+    background-color: rgb(225, 225, 221);
+    width: 10em;
+    border-radius: 10px;
+    margin : 10px;
+}
+
+.pokecard-name, .pokecard-avatar, .pokecard-type, .pokecard-exp{
+    margin : 5px auto;
+}
